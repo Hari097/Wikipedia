@@ -23,3 +23,17 @@
     border-radius: 3px;
     padding: 10px;
 }
+.result-item{
+    margin-bottom: 20px;
+}
+.result-title{
+    font-size: 22px;
+}
+.result-url{
+    color: #006621;
+}
+
+.link-description {
+    color: #444444;
+    font-size: 15px;
+  }
